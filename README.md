@@ -1,4 +1,4 @@
-# Kubeternets Submissions
+# Kubernetes Submissions
 
 ## Exercises
 
