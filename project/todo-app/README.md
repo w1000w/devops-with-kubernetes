@@ -1,2 +1,1 @@
-- `npm run build`
-- `npm run start`
+Deploy with `kubectl create deployment todo-app --image=galacticc/todo-app`
