@@ -1,3 +1,3 @@
 # Log Output app
 
-Deploy with `kubectl create deployment log-output --image=galacticc/log-output`
+Deploy with `kubectl apply -f manifests/deployment.yaml`
